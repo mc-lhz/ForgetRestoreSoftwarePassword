@@ -1,0 +1,2 @@
+# ForgetRestoreSoftwarePassword
+这是一个专注于破解还原软件的仓库
